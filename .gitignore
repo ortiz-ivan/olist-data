@@ -1,8 +1,0 @@
-.venv/
-__pycache__/
-processed/
-raw/
-*.csv
-*.xlsx
-*.pkl
-.ipynb_checkpoints/
